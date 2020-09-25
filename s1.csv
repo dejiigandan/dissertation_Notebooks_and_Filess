@@ -1,0 +1,4 @@
+﻿ward_name,ward_code,n_of_visits,ward_name,lat,lng
+OneAbbey,madeUpWardCode,20000000,OneAbbey,54.677608,-5.89564
+TwoAbbey,anothermadeupcode,10000000,TwoAbbey,53.22,-4.44
+ThreeAbbey,yetanother,3000000,ThreeAbbey,55.1,-0.222
